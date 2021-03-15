@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Web Developer
 - 💞️ I’m looking to collaborate on Web Developer
-- 📫 How to reach me ? ohahmadko@gmail.com
 
 <!---
 K-ahmad/K-ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
