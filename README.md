@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @K-ahmad
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Web Developer
-- 💞️ I’m looking to collaborate on Web Developer
 
 <!---
 K-ahmad/K-ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
